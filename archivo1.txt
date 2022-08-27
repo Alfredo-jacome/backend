@@ -1,4 +1,4 @@
-Nuevo documento
+
 Nombre: Alfredo
 Apellido: Jacome
 Asignatura: Electiva Disciplinar II
